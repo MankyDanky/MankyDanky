@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey, I'm Aadi Kulshrestha!
 I like making video games, graphics programming, and web development
 
 
