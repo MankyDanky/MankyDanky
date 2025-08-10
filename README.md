@@ -5,6 +5,5 @@ I'm currently a student at the University of Waterloo and an incoming Cybersecur
 
 Checkout some of my projects below, my favourites are my WebGPU Particle System, and CHAINED
 
-# Interests
 Beyond programming, I love the gym, video games, and anime.
 
